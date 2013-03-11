@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenBox.CParsing", "GreenBox.CParsing\GreenBox.CParsing.csproj", "{1C2CE686-1DE3-4AC6-86D6-3B22023498ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B17AE872-08E7-48C3-8FD1-509496C1C479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2CE686-1DE3-4AC6-86D6-3B22023498ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2CE686-1DE3-4AC6-86D6-3B22023498ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2CE686-1DE3-4AC6-86D6-3B22023498ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2CE686-1DE3-4AC6-86D6-3B22023498ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17AE872-08E7-48C3-8FD1-509496C1C479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17AE872-08E7-48C3-8FD1-509496C1C479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17AE872-08E7-48C3-8FD1-509496C1C479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17AE872-08E7-48C3-8FD1-509496C1C479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
